@@ -25,6 +25,7 @@ Soy estudiante de Ingeniería de Sistemas en **UTEPSA** y me dedico a desarrolla
 ### 📊 GitHub Estadísticas
 ![Estadísticas de Ronald](https://github-readme-stats.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=radical)
 ![Languages ​​principales](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=radical)
 
 ---
 
