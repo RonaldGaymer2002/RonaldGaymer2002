@@ -25,7 +25,9 @@ Soy estudiante de Ingeniería de Sistemas en **UTEPSA** y me dedico a desarrolla
 ### 📊 GitHub Estadísticas
 ![Estadísticas de Ronald](https://github-readme-stats.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=radical)
 ![Languages ​​principales](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RonaldGaymer2002&theme=radical)
+[![Ronald's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RonaldGaymer2002&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Repo Destacado](https://github-readme-stats.vercel.app/api/pin/?username=RonaldGaymer2002&repo=NOMBRE_DE_TU_REPO&theme=radical)
 ---
 
 ### 📫 Conéctate conmigo:
