@@ -32,16 +32,10 @@ Full-Stack Software Engineer from Bolivia. I build scalable distributed systems 
 
 ### GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=tokyonight&count_private=true" alt="Augusto's GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=tokyonight" alt="Most Used Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=tokyonight&count_private=true" alt="Augusto's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=tokyonight" alt="Most Used Languages" width="49%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldGaymer2002&theme=tokyonight" alt="GitHub Streak" width="100%" />
