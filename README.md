@@ -35,21 +35,21 @@ Full-Stack Software Engineer from Bolivia. I build scalable distributed systems 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Augusto's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=tokyonight&count_private=true" alt="Augusto's GitHub Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Most Used Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=tokyonight" alt="Most Used Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldGaymer2002&theme=tokyonight" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronald-augusto-rodriguez-serrano-690048211)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldaugust3.rs@gmail.com)
