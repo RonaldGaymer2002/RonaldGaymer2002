@@ -1,35 +1,55 @@
-Hola, soy Ronald Augusto 👋
+# Hey, I'm Augusto Rodriguez Serrano
 
-### 🚀 Estudiante de Ingeniería de Sistemas en UTEPSA | CEO de ArquiSoft | Desarrollador Fullstack
-
-Soy estudiante de Ingeniería de Sistemas en **UTEPSA** y me dedico a desarrollar soluciones innovadoras. Actualmente, soy desarrollador en **Yacuma Global**.
+Full-Stack Software Engineer from Bolivia. I build scalable distributed systems and love turning complex problems into clean, working software.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-- **Frontend:** Flutter, HTML, CSS
-- **Backend:** Java, MySQL, Kotlin (Android Studio)
-- **Redes y administración:** Linux (LVM/RAID), Windows Server 2012 R2, MikroTik
-- **Otros:** Blockchain (DeFi), Ciberseguridad, Metodología Scrum
+### Tech Stack
+
+#### Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextjs&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🏆 Logros y proyectos
-- **Mejor concepto de misión** - NASA International Space Apps Challenge 2025 (Proyecto: GeoPlan Ciudad Viva)
-- **Finalista** - Stacks Hackathon Latam (Proyecto: ArquiFi)
-- **Líder** - InnovaHack 2025 (Equipo ArquiSoft)
-- **Desarrollador de aplicaciones móviles** - MindfulConnect (Equipo: Los Macheteros)
+### GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Augusto's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</p>
 
 ---
 
-### 📊 GitHub Estadísticas
-![Estadísticas de Ronald](https://github-readme-stats.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=radical)
-![Languages ​​principales](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RonaldGaymer2002&theme=radical)
-[![Ronald's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RonaldGaymer2002&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Repo Destacado](https://github-readme-stats.vercel.app/api/pin/?username=RonaldGaymer2002&repo=NOMBRE_DE_TU_REPO&theme=radical)
----
+### Let's connect
 
-### 📫 Conéctate conmigo:
-- **LinkedIn:** [https://www.linkedin.com/in/ronald-augusto-rodr%C3%ADguez-serrano-690048211/]
-- **Correo electrónico:** [ronaldaugust2002@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
