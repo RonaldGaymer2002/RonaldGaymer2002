@@ -1,6 +1,6 @@
 # Hey, I'm Augusto Rodriguez Serrano
 
-Full-Stack Software Engineer from Bolivia. I build scalable distributed systems and love turning complex problems into clean, working software.
+Full-Stack Software Engineer from Bolivia. I build scalable distributed systems and love turning complex problems into clean, working software !.
 
 ---
 
