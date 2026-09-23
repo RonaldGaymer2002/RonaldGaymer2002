@@ -1,3 +1,4 @@
+# Hey, I'm Augusto Rodriguez Serrano
 <div align="center">
   <!-- Terminal interactivo con tu rostro ASCII -->
   <img src="https://raw.githubusercontent.com/RonaldGaymer2002/Sushmitadasari/main/dark.svg" alt="Ronald Dev Profile" width="100%" />
@@ -10,7 +11,7 @@
 
 <br/>
 
-# Hey, I'm Augusto Rodriguez Serrano
+# Sobre Mi
 
 Full-Stack Software Engineer from Bolivia. I build scalable distributed systems and love turning complex problems into clean, working software !.
 
