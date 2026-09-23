@@ -1,3 +1,22 @@
+<div align="center">
+  <!-- 🚀 CABECERA ANIMADA (RETRO TERMINAL & ARCADE JET) DE GITBLAZE -->
+  
+  <!-- 1. Tarjeta Terminal ASCII con tu rostro procesado y métricas en vivo -->
+  <img src="https://gitblaze.com/api/v1/scan?username=RonaldGaymer2002&theme=matrix&ascii_mode=image" alt="Terminal Profile Scan" width="100%" />
+
+  <br/>
+
+  <!-- 2. Banner de Texto ASCII Animado con tu nombre principal -->
+  <img src="https://gitblaze.com/api/v1/banner?text=AUGUSTO&theme=matrix&effect=matrix_code" alt="Animated Name Banner" width="100%" />
+
+  <br/>
+
+  <!-- 3. Gráfico de Actividad Arcade: Nave disparando a tus contribuciones -->
+  <img src="https://gitblaze.com/api/v1/contributions?username=RonaldGaymer2002&theme=matrix&effect=jet_fighter" alt="Contribution Jet Activity" width="100%" />
+</div>
+
+<br/>
+
 # Hey, I'm Augusto Rodriguez Serrano
 
 Full-Stack Software Engineer from Bolivia. I build scalable distributed systems and love turning complex problems into clean, working software !.
@@ -27,7 +46,7 @@ Full-Stack Software Engineer from Bolivia. I build scalable distributed systems 
 
 #### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&height=20)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-39827F?style=for-the-badge&logo=prisma&logoColor=white)
@@ -36,11 +55,12 @@ Full-Stack Software Engineer from Bolivia. I build scalable distributed systems 
 
 ---
 
-### GitHub Stats
+### GitHub Stats (Corregido)
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Augusto's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=tokyonight&v=1" alt="Most Used Languages" width="49%" />
+  <!-- He corregido la URL para usar una instancia estable que no dé error de límite de API -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RonaldGaymer2002&show_icons=true&theme=tokyonight&count_private=true" alt="Augusto's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=RonaldGaymer2002&layout=compact&theme=tokyonight" alt="Most Used Languages" width="49%" />
 </p>
 
 <p align="center">
