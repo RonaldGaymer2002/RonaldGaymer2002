@@ -1,7 +1,7 @@
 # Hey, I'm Augusto Rodriguez Serrano
 <div align="center">
   <!-- Terminal interactivo con tu rostro ASCII -->
-  <img src="https://raw.githubusercontent.com/RonaldGaymer2002/Sushmitadasari/main/dark.svg" alt="Ronald Dev Profile" width="100%" />
+  <img src="https://raw.githubusercontent.com/RonaldGaymer2002/Sushmitadasari/main/dark.svg?v=5" alt="ronald dev profile" width="100%" />
 
 
   <!-- Caza disparando a tus contribuciones reales de GitHub -->
