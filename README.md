@@ -3,7 +3,6 @@
   <!-- Terminal interactivo con tu rostro ASCII -->
   <img src="https://raw.githubusercontent.com/RonaldGaymer2002/Sushmitadasari/main/dark.svg" alt="Ronald Dev Profile" width="100%" />
 
-  <br/><br/>
 
   <!-- Caza disparando a tus contribuciones reales de GitHub -->
   <img src="https://raw.githubusercontent.com/RonaldGaymer2002/Sushmitadasari/main/dist/github-jet.svg" alt="GitHub Jet Contributions" width="100%" />
