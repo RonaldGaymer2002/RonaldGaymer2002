@@ -1,18 +1,11 @@
 <div align="center">
-  <!-- 🚀 CABECERA ANIMADA (RETRO TERMINAL & ARCADE JET) DE GITBLAZE -->
-  
-  <!-- 1. Tarjeta Terminal ASCII con tu rostro procesado y métricas en vivo -->
-  <img src="https://gitblaze.com/api/v1/scan?username=RonaldGaymer2002&theme=matrix&ascii_mode=image" alt="Terminal Profile Scan" width="100%" />
+  <!-- Terminal interactivo con tu rostro ASCII -->
+  <img src="https://raw.githubusercontent.com/RonaldGaymer2002/Sushmitadasari/main/dark.svg" alt="Ronald Dev Profile" width="100%" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- 2. Banner de Texto ASCII Animado con tu nombre principal -->
-  <img src="https://gitblaze.com/api/v1/banner?text=AUGUSTO&theme=matrix&effect=matrix_code" alt="Animated Name Banner" width="100%" />
-
-  <br/>
-
-  <!-- 3. Gráfico de Actividad Arcade: Nave disparando a tus contribuciones -->
-  <img src="https://gitblaze.com/api/v1/contributions?username=RonaldGaymer2002&theme=matrix&effect=jet_fighter" alt="Contribution Jet Activity" width="100%" />
+  <!-- Caza disparando a tus contribuciones reales de GitHub -->
+  <img src="https://raw.githubusercontent.com/RonaldGaymer2002/Sushmitadasari/main/dist/github-jet.svg" alt="GitHub Jet Contributions" width="100%" />
 </div>
 
 <br/>
